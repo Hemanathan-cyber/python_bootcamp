@@ -1,8 +1,0 @@
-keys = ['a', 'b', 'c']
-values = (1, 2, 3)
-a={}
-for k in keys:
-    for  v in values:
-        a[k]=v
-
-print(a)
